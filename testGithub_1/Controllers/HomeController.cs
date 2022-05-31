@@ -8,7 +8,7 @@ namespace testGithub_1.Controllers
 {
     public class HomeController : Controller
     {
-        //testgithub_テスト
+        //testgithub_テスト　テタ
         public ActionResult Index()
         {
             return View();
