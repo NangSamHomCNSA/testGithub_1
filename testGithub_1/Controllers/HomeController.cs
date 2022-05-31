@@ -21,6 +21,7 @@ namespace testGithub_1.Controllers
             return View();
         }
 
+        //testingテタ
         public ActionResult Contact()
         {
             ViewBag.Message = "Your contact page.";
